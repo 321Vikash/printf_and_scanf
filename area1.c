@@ -1,4 +1,7 @@
-// WAP to find the area of circle.Take radius of the circle from user an input.
+/* Programmer :Vikash Kumar Thakur
+   Topic      :WAP to find the area of circle.Take radius of the circle from user an input.
+   IDE        :VS Code
+*/ 
 #include <stdio.h>
 int main()
 {
