@@ -1,4 +1,7 @@
-// WAP to print Hello students on the screen.
+/* Programmer :Vikash Kumar Thakur
+   Topic      :WAP to print Hello students on the screen.
+   IDE        :VS Code
+*/ 
 #include<stdio.h>
 int main()
 {
