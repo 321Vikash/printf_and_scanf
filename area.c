@@ -1,4 +1,7 @@
-// WAP to calculate area of rectangle.Input approprite data from the user.
+/* Programmer :Vikash Kumar Thakur
+   Topic      :WAP to calculate area of rectangle.Input approprite data from the user.
+   IDE        :VS Code
+*/
 #include <stdio.h>
 int main()
 {
