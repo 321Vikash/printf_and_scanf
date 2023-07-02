@@ -1,4 +1,7 @@
-// WAP to calculate sum of two integer.Number are taken  from user through keybord.
+/* Programmer :Vikash Kumar Thakur
+   Topic      :WAP to calculate sum of two integer.Number are taken  from user through keybord.
+   IDE        :VS Code
+*/
 #include <stdio.h>
 int main()
 {
