@@ -1,4 +1,7 @@
-// WAP to calculate square  a given number. Number is entered by the user.
+/* Programmer :Vikash Kumar Thakur
+   Topic      :WAP to calculate square a given number. Number is entered by the user.
+   IDE        :VS Code
+*/
 #include<stdio.h>
 int main()
 {
